@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis [Project Link](https://github.com/Udhay2898/Walmart-SQL-Analysis/blob/Master/Walmart%20Sales%20Analysis.sql)
+# Walmart Sales Data Analysis                                          [Project Link](https://github.com/Udhay2898/Walmart-SQL-Analysis/blob/Master/Walmart%20Sales%20Analysis.sql)
 
 ## Objective :
 
@@ -7,7 +7,7 @@ This project aims to explore the Walmart Sales data to understand top performing
 ## Purposes Of The Project
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
-## About Data [Dataset Link](https://github.com/Udhay2898/Walmart-SQL-Analysis/blob/Master/Walmart%20Sales.csv)
+## About Data                                                           [Dataset Link](https://github.com/Udhay2898/Walmart-SQL-Analysis/blob/Master/Walmart%20Sales.csv)
 
 | Column                  | Description                             | Data Type      |
 | :---------------------- | :-------------------------------------- | :------------- |
