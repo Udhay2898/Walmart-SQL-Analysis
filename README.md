@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis
+# Walmart Sales Data Analysis [Project Link](https://github.com/Udhay2898/Walmart-SQL-Analysis/blob/Master/Walmart%20Sales%20Analysis.sql)
 
 ## Objective :
 
