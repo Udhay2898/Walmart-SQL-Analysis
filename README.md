@@ -54,7 +54,7 @@ The major aim of thie project is to gain insight into the sales data of Walmart 
 
 > 3. Add a new column named `Month` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
-> 4. > 3. Add a new column named `Year` that contains the extracted months of the year on which the given transaction took place. Help determine which month of the year has the most sales and profit.
+> 4. Add a new column named `Year` that contains the extracted months of the year on which the given transaction took place. Help determine which month of the year has the most sales and profit.
 
 2. **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
